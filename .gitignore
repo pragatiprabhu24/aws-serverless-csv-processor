@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+
+# Environment variables
+.env
+
+# Build files
+dist/
+coverage/
+
+# Lambda deployment package
+*.zip
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code (optional)
+.vscode/
